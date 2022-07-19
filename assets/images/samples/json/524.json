@@ -1,0 +1,43 @@
+{
+  "name": "The Real Saudis NFT #524",
+  "description": "Because They Lied, We, Saudi's, Present You The Real Saudis NF with real minting",
+  "image": "ipfs://QmeiurfVhovzUvfqaKmn5d1jtY8Q6eRTq1btkdeodMGXsx/524.png",
+  "dna": "9cdc1dc3a2d305d0d18ee60fd54f15d5b5044572",
+  "edition": 524,
+  "date": 1658270438097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Head",
+      "value": " Black"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "White Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": " White Manbun"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": " Green shemagh agal gold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth Piece",
+      "value": "Pipe rosewood"
+    },
+    {
+      "trait_type": "Mouth Piece",
+      "value": "ECigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

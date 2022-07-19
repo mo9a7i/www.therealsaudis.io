@@ -1,0 +1,37 @@
+@import '_fonts.scss';
+
+@import '~bootstrap/scss/bootstrap';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+@import '_mixins.scss';
+@import '_variables.scss';
+
+@import '_rtl.scss';
+
+:root{
+    --primary-color: #004Dff;
+    --primary-color-rgb: 0, 77, 255;
+    --secondary-color: #000F29;
+    --secondary-color-rgb: 0, 15, 41;
+    --body-color: black;
+
+}
+body{
+    background: white;
+    min-height:100vh;
+    color:var(--body-color);
+}
+
+section#partners{
+    .partner{
+        height: 100%;
+        .card{
+            height: 100%;
+            img{
+                max-height: 100px;
+                max-width: 100%;
+            }
+        }
+        
+    }
+}
