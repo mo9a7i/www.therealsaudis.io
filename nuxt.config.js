@@ -169,7 +169,10 @@ export default {
 		host: 'localhost',
 		port: '15152',
 	},
-
+	router: {
+		base: '/www.therealsaudisnft.com/'
+	},
+	
 	env: {
 		baseUrl: process.env.BASE_URL || 'https://www.therealsaudisnft.com'
 	},
