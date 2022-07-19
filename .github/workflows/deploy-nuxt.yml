@@ -24,8 +24,8 @@ jobs:
           node-version: "16.14"
       # Install and build NuxtJs website
       - name: Build NuxtJS website
-        #env:
-          #BASE_URL: "http://www.6degrees.com.sa/"
+        env:
+          BASE_URL: "https://the-real-saudis-nft.github.io/www.therealsaudisnft.com/"
         run: |
           npm install 
           npm run generate
