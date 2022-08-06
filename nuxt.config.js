@@ -170,11 +170,11 @@ export default {
 		port: '15152',
 	},
 	router: {
-		base: '/www.therealsaudisnft.com/'
+		base: '/'
 	},
 	
 	env: {
-		baseUrl: process.env.BASE_URL || 'https://www.therealsaudisnft.com'
+		baseUrl: process.env.BASE_URL || 'https://www.therealsaudis.io'
 	},
 
 	humansTxt: {
